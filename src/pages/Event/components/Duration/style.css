@@ -1,0 +1,8 @@
+.event-duration {
+    font-size: 30px;
+    line-height: 100px;
+    max-width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    background-color: #666;
+}

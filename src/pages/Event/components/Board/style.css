@@ -1,0 +1,20 @@
+.event-board {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.event-user {
+  display: flex;
+  height: 100px;
+  line-height: 100px;
+  text-align: left;
+}
+
+.event-user .name {
+  flex: 1;
+  background: 
+}
+
+.event-user .score {
+  flex: 1;
+}
