@@ -1,0 +1,5 @@
+# calendar
+
+```sh
+npm start
+```
